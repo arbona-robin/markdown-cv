@@ -52,7 +52,7 @@ Freelance, Web and Mobile, Full Stack Developer
 ## Education
 
 ### La Plateforme_
-**Développeur Full Stack** *(September 2020 - August 2022)*
+**Full Stack Developer** *(September 2020 - August 2022)*
 
 ### Arts et Métiers ParisTech - École Nationale Supérieure d'Arts et Métiers
 **Mechanical engineer** *(2007 - 2011)*
