@@ -10,7 +10,7 @@ Freelance Web and Mobile Full Stack Developer
 <a href="https://www.linkedin.com/in/robin-arbona-7669761a2/">LinkedIn Profile</a>
 | <a href="mailto:arbona.robin@gmail.com">arbona.robin@gmail.com</a>
 | <a href="tel:+33633660712">06 33 66 07 12</a>
-| 8 Place des Moulins, 13002 Marseille, Provence-Alpes-Côte d’Azur, France
+| 8 Pl. des Moulins, 13002 Marseille, France
 </div>
 
 ## Professional Experience
