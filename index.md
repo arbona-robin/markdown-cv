@@ -20,7 +20,7 @@ Freelance, Web and Mobile, Full Stack Developer
 - Developed back end of video game "Buddy Arena" for Affyn, a project at Exkee studio.
 - Technologies used: TypeScript, GraphQL, Playfab, Azure Functions, GitHub Actions CI/CD pipeline.
 
-### Corellis - Global Design, Innovation, and Strategy
+### Corellis - Global Design
 **Full Stack Developer** *(September 2022 - April 2023)*
 - Created a business application for CMA CGM at Corellis.
 - Collaborated in a team of 10 professionals to develop an innovative web platform using Node.js and React.js.
@@ -39,7 +39,7 @@ Freelance, Web and Mobile, Full Stack Developer
 **Web Developer** *(April 2021 - January 2022)*
 - Co-created the website for [Club Top20](https://clubtop20.com/), uniting major businesses in the Aix-Marseille Provence region.
 
-### Casa Cocuyo | Selva Mojada - Eco-lodge
+### Selva Mojada - Eco-lodge
 **Contractor** *(January 2019 - January 2020)*
 - Constructed an eco-lodge on the Pacific coast of Colombia.
 
