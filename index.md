@@ -7,7 +7,7 @@ title: Robin Arbona's CV
 Freelance, Web and Mobile, Full Stack Developer
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/robinarbona/">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/robin-arbona-7669761a2/">LinkedIn Profile</a>
 | <a href="mailto:robin.arbona@email.com">robin.arbona@email.com</a>
 | <a href="tel:+33633660712">06 33 66 07 12</a>
 | 8 pl des Moulins 13002 Marseille, Provence-Alpes-Côte d’Azur, France
