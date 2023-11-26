@@ -16,39 +16,35 @@ Freelance, Web and Mobile, Full Stack Developer
 ## Professional Experience
 
 ### Exkee - Game Studio
-**Développeur Back-end** *(May 2023 - Present)*
-Marseille, Provence-Alpes-Côte d’Azur, France
+**Backend Developer** *(May 2023 - Present)*
 - Developed back end of video game "Buddy Arena" for Affyn, a project at Exkee studio.
 - Technologies used: TypeScript, GraphQL, Playfab, Azure Functions, GitHub Actions CI/CD pipeline.
 
 ### Corellis - Global Design, Innovation, and Strategy
-**Développeur d’Applications Web** *(September 2022 - April 2023)*
-Marseille, Provence-Alpes-Côte d’Azur, France
+**Full Stack Developer** *(September 2022 - April 2023)*
 - Created a business application for CMA CGM at Corellis.
 - Collaborated in a team of 10 professionals to develop an innovative web platform using Node.js and React.js.
 - Mastered Agile methodologies and continuous integration (CI/CD) for efficient development processes.
 
 ### Patrice Pane Architecte
-**Développeur d’Applications Web** *(August 2022 - September 2022)*
-Marseille, Provence-Alpes-Côte d’Azur, France
+**Web Developer** *(August 2022 - September 2022)*
 - Created a website and content management system for the interior architect [Patrice Pane](https://www.patricepane.com/).
 
 ### i-wantit
-**Développeur Applications Web** *(September 2021 - August 2022)*
-Marseille, Provence-Alpes-Côte d’Azur, France
+**Full Stack Developer** *(September 2021 - August 2022)*
 - Developed mobile apps using React-Native, backend API using TypeScript/JavaScript, Node.js, and GraphQL.
 - Worked on Chrome Extension development and web back office/site using React/Next.
 
 ### La Plateforme_
-**Développeur Web** *(April 2021 - January 2022)*
+**Web Developer** *(April 2021 - January 2022)*
 - Co-created the website for [Club Top20](https://clubtop20.com/), uniting major businesses in the Aix-Marseille Provence region.
 
-### Entrepreneur
-**Casa Cocuyo - Selva Mojada** *(January 2019 - January 2020)*
+### Casa Cocuyo - Selva Mojada
+**Contractor** *(January 2019 - January 2020)*
 - Constructed an eco-lodge on the Pacific coast of Colombia.
 
 ### Onet Technologies
-**Chef de Projet** *(May 2011 - March 2018)*
+**Project manager** *(May 2011 - March 2018)*
 - Led operational project management for the reconstruction of the reactor pool at Paluel 2.
 - Agency director.
 - Project manager.
@@ -59,7 +55,7 @@ Marseille, Provence-Alpes-Côte d’Azur, France
 **Développeur Full Stack** *(September 2020 - August 2022)*
 
 ### Arts et Métiers ParisTech - École Nationale Supérieure d'Arts et Métiers
-**Mechanical engineer**
+**Mechanical engineer** *(2007 - 2011)*
 
 ## Skills
 
