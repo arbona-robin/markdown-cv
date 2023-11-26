@@ -39,7 +39,7 @@ Freelance, Web and Mobile, Full Stack Developer
 **Web Developer** *(April 2021 - January 2022)*
 - Co-created the website for [Club Top20](https://clubtop20.com/), uniting major businesses in the Aix-Marseille Provence region.
 
-### Selva Mojada - Eco-lodge
+### Selva Mojada
 **Contractor** *(January 2019 - January 2020)*
 - Constructed an eco-lodge on the Pacific coast of Colombia.
 
