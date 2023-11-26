@@ -26,20 +26,20 @@ Freelance, Web and Mobile, Full Stack Developer
 - Collaborated in a team of 10 professionals to develop an innovative web platform using Node.js and React.js.
 - Mastered Agile methodologies and continuous integration (CI/CD) for efficient development processes.
 
-### Patrice Pane Architecte
+### Patrice Pane - Architect
 **Web Developer** *(August 2022 - September 2022)*
 - Created a website and content management system for the interior architect [Patrice Pane](https://www.patricepane.com/).
 
-### i-wantit
+### i-wantit - Wishlist app
 **Full Stack Developer** *(September 2021 - August 2022)*
 - Developed mobile apps using React-Native, backend API using TypeScript/JavaScript, Node.js, and GraphQL.
 - Worked on Chrome Extension development and web back office/site using React/Next.
 
-### La Plateforme_
+### La Plateforme_ - School
 **Web Developer** *(April 2021 - January 2022)*
 - Co-created the website for [Club Top20](https://clubtop20.com/), uniting major businesses in the Aix-Marseille Provence region.
 
-### Casa Cocuyo - Selva Mojada
+### Casa Cocuyo | Selva Mojada - Eco-lodge
 **Contractor** *(January 2019 - January 2020)*
 - Constructed an eco-lodge on the Pacific coast of Colombia.
 
