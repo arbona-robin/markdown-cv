@@ -1,91 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Robin Arbona's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Robin Arbona
+Freelance Web and Mobile Full Stack Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/robinarbona/">LinkedIn Profile</a>
+| <a href="mailto:robin.arbona@email.com">robin.arbona@email.com</a>
+| Bandol, Provence-Alpes-Côte d’Azur, France
 </div>
 
+## Professional Experience
 
-## Currently
+### Exkee
+**Développeur Back-end** *(May 2023 - Present)*
+Marseille, Provence-Alpes-Côte d’Azur, France
 
-Standing on the shoulders of giants
+### Corellis - Global Design, Innovation, and Strategy
+**Développeur d’Applications Web** *(September 2022 - April 2023)*
+Marseille, Provence-Alpes-Côte d’Azur, France
+- Collaborated in a team of 10 professionals to develop an innovative web platform using Node.js and React.js.
+- Mastered Agile methodologies and continuous integration (CI/CD) for efficient development processes.
 
-### Specialized in
+### ARBONA Robin
+**Développeur d’Applications Web** *(August 2022 - September 2022)*
+Marseille, Provence-Alpes-Côte d’Azur, France
+- Created a website and content management system for the interior architect Patrice Pane.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### i-wantit
+**Développeur Applications Web** *(September 2021 - August 2022)*
+Marseille, Provence-Alpes-Côte d’Azur, France
+- Developed mobile apps using React-Native, backend API using TypeScript/JavaScript, Node.js, and GraphQL.
+- Worked on Chrome Extension development and web back office/site using React/Next.
 
+### La Plateforme_
+**Développeur Web** *(April 2021 - January 2022)*
+- Co-created the website for Club Top20, uniting major businesses in the Aix-Marseille Provence region.
 
-### Research interests
+### Entrepreneur
+**Casa Cocuyo - Selva Mojada** *(January 2019 - January 2020)*
+- Constructed an eco-lodge on the Pacific coast of Colombia.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+### Onet Technologies
+**Chef de Projet** *(May 2017 - March 2018)*
+- Led operational project management for the reconstruction of the reactor pool at Paluel 2.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### La Plateforme_
+**Développeur Full Stack** *(September 2020 - August 2022)*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Arts et Métiers ParisTech - École Nationale Supérieure d'Arts et Métiers
+**Diplôme d'Ingénieur**
 
-- Sizar
+## Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Proficient in MS Visual Studio Code, Node.js, JavaScript, and git.
+- Fluent in French, proficient in English.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: [Date] -->
