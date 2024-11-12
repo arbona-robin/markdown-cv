@@ -15,8 +15,27 @@ Freelance Web and Mobile Full Stack Developer
 
 ## Professional Experience
 
+### Tumo Center for Creative Technologies
+**Programming and Robotics Workshop Leader** *(March 2024 - Present)*
+- Led programming and robotics workshops for teenagers, focusing on web and hardware technologies.
+- Engaged students in developing programming, electronics, mechanics, and problem-solving skills through interactive projects.
+- Technologies used: Arduino, JavaScript.
+
+### MaCoBioS (European Project)
+**Web Developer** *(August 2024 - October 2024)*
+- Developed innovative interactive tools for scientists and decision-makers, focusing on blue Nature-based Solutions for climate change adaptation.
+- Technologies used: Next.js, D3.js, FCM algorithm.
+- Project link: [https://iopr.vercel.app/en](https://iopr.vercel.app/en)
+
+### Spill Studio - Game Studio
+**Full Stack Developer** *(June 2024 - Present)*
+- Developed the Motio.ai web platform, a high-precision motion capture solution using a multi-camera setup.
+- Simplified motion capture processes, eliminating the need for calibration or specialized hardware.
+- Technologies used: Next.js, tRPC, R3F.
+- Project link: [https://www.motio.ai/](https://www.motio.ai/)
+
 ### Exkee - Game Studio
-**Backend Developer** *(May 2023 - Present)*
+**Backend Developer** *(May 2023 - December 2023)*
 - Developed the backend of the video game "Buddy Arena" for Affyn, a project at Exkee studio.
 - Technologies used: TypeScript, GraphQL, Playfab, Azure Functions, GitHub Actions CI/CD pipeline.
 
