@@ -17,55 +17,52 @@ Freelance Web and Mobile Full Stack Developer
 
 ### MaCoBioS (European Project)
 **Frontend Developer** *(August 2024 - October 2024)*
-- Developed innovative interactive tools for scientists and decision-makers, focusing on blue Nature-based Solutions for climate change adaptation.
-- Technologies used: Next.js, D3.js, FCM algorithm.
-- Project link: [https://iopr.vercel.app/en](https://iopr.vercel.app/en)
+- Developed interactive tools for scientists and decision-makers, focusing on blue Nature-based Solutions for climate change adaptation.
+- Technologies: Next.js, D3.js, FCM algorithm.
+- [Project link](https://iopr.vercel.app/en)
 
-### Spill Studio - Game Studio
+### Spill Studio
 **Full Stack Developer** *(June 2024 - December 2024)*
-- Developed the Motio.ai web platform, a high-precision motion capture solution using a multi-camera setup.
-- Simplified motion capture processes, eliminating the need for calibration or specialized hardware.
-- Technologies used: Next.js, tRPC, R3F.
-- Project link: [https://www.motio.ai/](https://www.motio.ai/)
+- Built the Motio.ai web platform, a high-precision motion capture solution using a multi-camera setup.
+- Technologies: Next.js, tRPC, R3F.
+- [Project link](https://www.motio.ai/)
 
 ### TUMO Center for Creative Technologies
 **Programming and Robotics Workshop Leader** *(March 2024 - Present)*
-- Led programming and robotics workshops for teenagers, focusing on web and hardware technologies.
-- Engaged students in developing programming, electronics, mechanics, and problem-solving skills through interactive projects.
-- Technologies used: Arduino, JavaScript.git
+- Led workshops for teenagers, focusing on programming, electronics, and robotics.
+- Guided students in hands-on projects to enhance their problem-solving and technical skills.
 
 ### Exkee - Game Studio
 **Backend Developer** *(May 2023 - December 2023)*
-- Developed the backend of the video game "Buddy Arena" for Affyn, a project at Exkee studio.
-- Technologies used: TypeScript, GraphQL, Playfab, Azure Functions, GitHub Actions CI/CD pipeline.
+- Built backend services for the video game "Buddy Arena" for Affyn.
+- Technologies: TypeScript, GraphQL, Playfab, Azure Functions, GitHub Actions CI/CD.
 
 ### Corellis - Global Design
 **Full Stack Developer** *(September 2022 - April 2023)*
-- Created a business application for CMA CGM at Corellis.
-- Collaborated with a team of 10 professionals to develop an innovative web platform using Node.js and React.js.
-- Mastered Agile methodologies and continuous integration (CI/CD) for efficient development processes.
+- Developed a business application for CMA CGM, collaborating with a team of 10.
+- Focused on Node.js and React.js development within Agile methodologies and CI/CD environments.
 
 ### Patrice Pane - Architect
-**Web Developer** *(August 2022 - September 2022)*
-- Developed a website and content management system for the interior architect [Patrice Pane](https://www.patricepane.com/).
+**Frontend Developer** *(August 2022 - September 2022)*
+- Created a website and content management system for the interior architect [Patrice Pane](https://www.patricepane.com/).
 
 ### i-wantit - Wishlist App
 **Full Stack Developer** *(September 2021 - August 2022)*
-- Developed mobile apps using React-Native, backend API using TypeScript/JavaScript, Node.js, and GraphQL.
-- Worked on Chrome Extension development and web back office/site using React/Next.
+- Developed mobile apps with React Native and backend APIs using Node.js and GraphQL.
+- Worked on Chrome Extensions and web interfaces with React/Next.js.
 
-### La Plateforme_ - School
-**Web Developer** *(April 2021 - January 2022)*
-- Co-created the website for [Club Top20](https://clubtop20.com/), uniting major businesses in the Aix-Marseille Provence region.
+### La Plateforme_
+**Frontend Developer** *(April 2021 - January 2022)*
+- Co-developed the website for [Club Top20](https://clubtop20.com/), connecting major businesses in the Aix-Marseille region.
 
 ### Selva Mojada
 **Contractor** *(January 2019 - January 2020)*
-- Constructed an eco-lodge on the Pacific coast of Colombia.
+- Managed the construction of an eco-lodge on Colombia's Pacific coast.
 
 ### Onet Technologies
 **Project Manager** *(May 2011 - March 2018)*
-- Led operational project management for the reconstruction of the reactor pool at Paluel 2.
-- Served as Agency Director and Project Manager.
+- Led project management for the reconstruction of the reactor pool at Paluel 2.
+- Oversaw operations as Agency Director and Project Manager.
 
 ## Education
 
@@ -77,9 +74,5 @@ Freelance Web and Mobile Full Stack Developer
 
 ## Skills
 
-- Proficient in React.js, Node.js, TypeScript, and Git.
+- React.js, Node.js, TypeScript, Git
 - Project Management
-
-<!-- ### Footer
-
-Last updated: [Date] -->
