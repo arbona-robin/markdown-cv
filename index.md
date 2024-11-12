@@ -15,12 +15,6 @@ Freelance Web and Mobile Full Stack Developer
 
 ## Professional Experience
 
-### TUMO Center for Creative Technologies
-**Programming and Robotics Workshop Leader** *(March 2024 - Present)*
-- Led programming and robotics workshops for teenagers, focusing on web and hardware technologies.
-- Engaged students in developing programming, electronics, mechanics, and problem-solving skills through interactive projects.
-- Technologies used: Arduino, JavaScript.
-
 ### MaCoBioS (European Project)
 **Frontend Developer** *(August 2024 - October 2024)*
 - Developed innovative interactive tools for scientists and decision-makers, focusing on blue Nature-based Solutions for climate change adaptation.
@@ -33,6 +27,12 @@ Freelance Web and Mobile Full Stack Developer
 - Simplified motion capture processes, eliminating the need for calibration or specialized hardware.
 - Technologies used: Next.js, tRPC, R3F.
 - Project link: [https://www.motio.ai/](https://www.motio.ai/)
+
+### TUMO Center for Creative Technologies
+**Programming and Robotics Workshop Leader** *(March 2024 - Present)*
+- Led programming and robotics workshops for teenagers, focusing on web and hardware technologies.
+- Engaged students in developing programming, electronics, mechanics, and problem-solving skills through interactive projects.
+- Technologies used: Arduino, JavaScript.git
 
 ### Exkee - Game Studio
 **Backend Developer** *(May 2023 - December 2023)*
