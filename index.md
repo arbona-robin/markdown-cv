@@ -17,15 +17,14 @@ Freelance Web and Mobile Full Stack Developer
 
 ### MaCoBioS (European Project)
 **Frontend Developer** *(August 2024 - October 2024)*
-- Developed interactive tools for scientists and decision-makers, focusing on blue Nature-based Solutions for climate change adaptation.
+- Developed the [MaCoBioS interactive tools](https://iopr.vercel.app/en) for scientists and decision-makers, focusing on blue Nature-based Solutions for climate change adaptation.
 - Technologies: Next.js, D3.js, FCM algorithm.
-- [Project link](https://iopr.vercel.app/en)
 
 ### Spill Studio
 **Full Stack Developer** *(June 2024 - December 2024)*
-- Built the Motio.ai web platform, a high-precision motion capture solution using a multi-camera setup.
+- Built the [Motio.ai](https://www.motio.ai/) web platform, a high-precision motion capture solution using a multi-camera setup.
+- Simplified motion capture with no calibration or specialized hardware required.
 - Technologies: Next.js, tRPC, R3F.
-- [Project link](https://www.motio.ai/)
 
 ### TUMO Center for Creative Technologies
 **Programming and Robotics Workshop Leader** *(March 2024 - Present)*
