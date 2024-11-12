@@ -22,13 +22,13 @@ Freelance Web and Mobile Full Stack Developer
 - Technologies used: Arduino, JavaScript.
 
 ### MaCoBioS (European Project)
-**Web Developer** *(August 2024 - October 2024)*
+**Frontend Developer** *(August 2024 - October 2024)*
 - Developed innovative interactive tools for scientists and decision-makers, focusing on blue Nature-based Solutions for climate change adaptation.
 - Technologies used: Next.js, D3.js, FCM algorithm.
 - Project link: [https://iopr.vercel.app/en](https://iopr.vercel.app/en)
 
 ### Spill Studio - Game Studio
-**Full Stack Developer** *(June 2024 - Present)*
+**Full Stack Developer** *(June 2024 - December 2024)*
 - Developed the Motio.ai web platform, a high-precision motion capture solution using a multi-camera setup.
 - Simplified motion capture processes, eliminating the need for calibration or specialized hardware.
 - Technologies used: Next.js, tRPC, R3F.
