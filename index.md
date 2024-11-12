@@ -22,7 +22,7 @@ Freelance Web and Mobile Full Stack Developer
 
 ### Spill Studio
 **Full Stack Developer** *(June 2024 - December 2024)*
-- Built the [Motio.ai](https://www.motio.ai/) web platform, a high-precision motion capture solution using a multi-camera setup.
+- Built the [motio.ai](https://www.motio.ai/) web platform, a high-precision motion capture solution using a multi-camera setup.
 - Simplified motion capture with no calibration or specialized hardware required.
 - Technologies: Next.js, tRPC, R3F.
 
