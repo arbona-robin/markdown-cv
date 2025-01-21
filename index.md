@@ -6,14 +6,18 @@ title: Robin Arbona's CV
 # Robin Arbona
 Freelance Web and Mobile Full Stack Developer
 
-<div id="webaddress">
-<a href="https://www.linkedin.com/in/robin-arbona-7669761a2/">LinkedIn Profile</a>
-| <a href="mailto:arbona.robin@gmail.com">arbona.robin@gmail.com</a>
+<div id="webaddress"> 
+<a href="mailto:arbona.robin@gmail.com">arbona.robin@gmail.com</a>
 | <a href="tel:+33633660712">06 33 66 07 12</a>
 | 8 Pl. des Moulins, 13002 Marseille, France
 </div>
 
 ## Professional Experience
+
+### OnlyChefs  
+**Full Stack Developer** *(November 2024 - December 2024)*  
+- Integrated Stripe Connect payment solutions to enable chefs to monetize premium content for their communities on [Only Chefs](https://www.onlychefs.fr/) 
+- Technologies: Stripe API, React.js, Node.js, Nest.js.
 
 ### MaCoBioS (European Project)
 **Frontend Developer** *(August 2024 - October 2024)*
